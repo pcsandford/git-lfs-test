@@ -1,0 +1,1 @@
+test-file.sketch filter=lfs diff=lfs merge=lfs -text
